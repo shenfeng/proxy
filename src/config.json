@@ -1,0 +1,38 @@
+{
+    "proxies": [
+        "localhost:3128",
+        "localhost:3129",
+        "localhost:3130"
+    ],
+    "blacks": [
+        "twitter",
+        "developer.chrome.com",
+
+        "youtube",
+        "ggpht.com",
+        "googlesyndication.com",
+        "doubleclick.net",
+
+        "golang.org",
+        "drtuber.com",
+        "akamaihd.net",
+
+        "googleapis.com",
+        "ytimg.com",
+        "googlevideo.com",
+        "gstatic.com",
+        "googleusercontent.com",
+        "google.com",
+        "facebook",
+        "blogspot",
+        "tw.yahoo.com",
+        "wordpress.com",
+        "archive.org",
+        "appspot.com",
+        "openvpn.net",
+        "xing.com",
+
+
+        "184.154.128.244"
+    ]
+}
